@@ -1,0 +1,16 @@
+Source: magic-cgc
+Section: devel
+Priority: standard
+Maintainer: Brian Caswell <bmc@lungetech.com>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.3
+Homepage: http://www.darpa.mil/cybergrandchallenge/
+
+Package: magic-cgc
+Architecture: all
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: CGC Magic
+ File magic entries for DARPA Cyber Grand Challenge (CGC) Challenge Binaries
+ (CB).
+ .
+ Allows any magic(5) based application, such as file, to identify CBs.

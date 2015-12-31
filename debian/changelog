@@ -1,0 +1,11 @@
+magic-cgc (8387-cfe-rc3) UNRELEASED; urgency=low
+
+  * build
+
+ -- Brian Caswell <bmc@lungetech.com>  Fri, 18 Dec 2015 19:28:48 +0000
+
+magic-cgc (1.0) unstable; urgency=low
+
+  * Initial Release.
+
+ -- Brian Caswell <bmc@lungetech.com>  Fri, 11 Apr 2014 18:53:43 +0000
